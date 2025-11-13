@@ -1,6 +1,11 @@
 #include<studio.h>
+#include<string.h>
 int main()
 {
-char
+char name[]="example"
+for(int i=0;i<=10000;i++)
+{
+printf("%s%d\n", string,i);
+}
 return 0
 }
